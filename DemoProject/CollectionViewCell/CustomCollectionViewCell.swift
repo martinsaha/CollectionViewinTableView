@@ -21,10 +21,7 @@
 //SOFTWARE.
 //  CustomCollectionViewCell.swift
 //  DemoProject
-//
-//  Created by Shankar B S on 17/02/18.
-//  Copyright © 2018 shankar.bs. All rights reserved.
-//
+
 
 import UIKit
 
